@@ -18,7 +18,8 @@
 	},
 	"files": [
 		"index.d.ts",
-		"source"
+		"source",
+		"index.js"
 	],
 	"keywords": [
 		"typescript",
